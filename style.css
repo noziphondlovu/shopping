@@ -7,3 +7,6 @@ body{
     float: left;
     margin-left: 20px;
 }
+image{
+    border: radius 10px;
+}
